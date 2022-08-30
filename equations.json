@@ -1,0 +1,76 @@
+{
+    "energy": [
+        {
+            "equation": "power",
+            "image": "https://cdn.discordapp.com/attachments/792777621582643240/832564346008895518/power-work-done.png"
+        },
+        {
+            "equation": "kinetic energy",
+            "image": "https://cdn.discordapp.com/attachments/792777621582643240/832561099144429578/1421fa4ef455a7cbd33ed0d22c580546.png"
+        },
+        {
+            "equation": "gravitational potential energy",
+            "image": "https://cdn.discordapp.com/attachments/792777621582643240/832562584947130368/gravitational-potential-energy.png"
+        },
+        {
+            "equation": "work done",
+            "image": "https://cdn.discordapp.com/attachments/792777621582643240/832564934609076244/work-done.png"
+        },
+        {
+            "equation": "elastic potential energy",
+            "image": "https://cdn.discordapp.com/attachments/792777621582643240/832565683270713375/elastic-potential-energy.png"
+        }
+    ],
+    "electricity": [
+        {
+            "equation": "charge",
+            "image": "https://cdn.discordapp.com/attachments/833795260672507945/835187080584888361/charge-current.png"
+        },
+        {
+            "equation": "charge",
+            "image": "https://cdn.discordapp.com/attachments/827511279114649601/863338995709640725/energy-transfer-circuits.png"
+        },
+        {
+            "equation": "voltage",
+            "image": "https://cdn.discordapp.com/attachments/833795260672507945/835185648843489310/resistance-voltage-current.png"
+        },
+        {
+            "equation": "power",
+            "image": "https://cdn.discordapp.com/attachments/827511279114649601/863337159371784192/slide_7.png"
+        },
+        {
+            "equation": "power",
+            "image": "https://cdn.discordapp.com/attachments/827511279114649601/863337840460824576/unknown.png"
+        },
+        {
+            "equation": "power",
+            "image": "https://cdn.discordapp.com/attachments/827511279114649601/863338526086266880/electrical-energy.png"
+        },
+        {
+            "equation": "energy transferred",
+            "image": "https://cdn.discordapp.com/attachments/827511279114649601/863338526086266880/electrical-energy.png"
+        },
+        {
+            "equation": "energy transferred",
+            "image": "https://cdn.discordapp.com/attachments/827511279114649601/863338995709640725/energy-transfer-circuits.png"
+        }
+    ],
+    "particle model of matter": [
+        {
+            "equation": "specific heat capacity",
+            "image": "https://cdn.discordapp.com/attachments/827511279114649601/863435948125847552/specific-heat-capacity.png"
+        },
+        {
+            "equation": "specific latent heat",
+            "image": "https://cdn.discordapp.com/attachments/827511279114649601/863436442314080307/thumb_06b6b84c-b103-4ea6-a923-339bdf94c032.png"
+        },
+        {
+            "equation": "density",
+            "image": "https://cdn.discordapp.com/attachments/792777621582643240/832569598326734888/density.png"
+        },
+        {
+            "equation": "pressure",
+            "image": "https://cdn.discordapp.com/attachments/833795260672507945/874016008954839040/unknown.png"
+        }
+    ]
+}
